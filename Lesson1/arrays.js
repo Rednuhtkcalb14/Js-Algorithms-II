@@ -13,7 +13,7 @@ const edFolha = [
   },
   {
     titulo: "Go",
-    preco: 40
+    preco: 45
   },
   {
     titulo: "Elixir",
